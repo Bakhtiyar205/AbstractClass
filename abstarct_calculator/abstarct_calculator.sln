@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstarctCalculator", "abstarct_calculator\AbstarctCalculator.csproj", "{2320E3ED-2312-44A8-B0A2-A5E2B7C41585}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculation", "Calculation\Calculation.csproj", "{202132F1-B9FD-4649-A096-CA501F29FACE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMultiply", "Sum_Multiply\SumMultiply.csproj", "{FA3AE9BD-BE47-4096-8F70-15C1B62FB0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2320E3ED-2312-44A8-B0A2-A5E2B7C41585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2320E3ED-2312-44A8-B0A2-A5E2B7C41585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2320E3ED-2312-44A8-B0A2-A5E2B7C41585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2320E3ED-2312-44A8-B0A2-A5E2B7C41585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202132F1-B9FD-4649-A096-CA501F29FACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202132F1-B9FD-4649-A096-CA501F29FACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202132F1-B9FD-4649-A096-CA501F29FACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202132F1-B9FD-4649-A096-CA501F29FACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3AE9BD-BE47-4096-8F70-15C1B62FB0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3AE9BD-BE47-4096-8F70-15C1B62FB0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3AE9BD-BE47-4096-8F70-15C1B62FB0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3AE9BD-BE47-4096-8F70-15C1B62FB0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B6BECF-AE58-4547-82DC-DB2389C53996}
+	EndGlobalSection
+EndGlobal

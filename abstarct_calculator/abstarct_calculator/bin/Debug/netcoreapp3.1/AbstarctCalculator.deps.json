@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AbstarctCalculator/1.0.0": {
+        "dependencies": {
+          "Calculation": "1.0.0",
+          "SumMultiply": "1.0.0"
+        },
+        "runtime": {
+          "AbstarctCalculator.dll": {}
+        }
+      },
+      "Calculation/1.0.0": {
+        "runtime": {
+          "Calculation.dll": {}
+        }
+      },
+      "SumMultiply/1.0.0": {
+        "dependencies": {
+          "Calculation": "1.0.0"
+        },
+        "runtime": {
+          "SumMultiply.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstarctCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SumMultiply/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

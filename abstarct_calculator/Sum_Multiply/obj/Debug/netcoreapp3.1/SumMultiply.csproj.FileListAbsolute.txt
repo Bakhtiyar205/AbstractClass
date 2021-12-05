@@ -1,0 +1,25 @@
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\SumMultiply.deps.json
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\SumMultiply.dll
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\SumMultiply.pdb
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\Calculation.dll
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\Calculation.pdb
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.AssemblyInfo.cs
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.csproj.CopyComplete
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.dll
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\SumMultiply.deps.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\SumMultiply.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\SumMultiply.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\Calculation.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\bin\Debug\netcoreapp3.1\Calculation.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.AssemblyInfo.cs
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\abstarct_calculator\Sum_Multiply\obj\Debug\netcoreapp3.1\SumMultiply.pdb

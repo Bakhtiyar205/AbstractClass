@@ -1,0 +1,17 @@
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.AssemblyInfo.cs
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\abstarct_calculator.exe
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\abstarct_calculator.deps.json
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\abstarct_calculator.runtimeconfig.json
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\abstarct_calculator.runtimeconfig.dev.json
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\abstarct_calculator.dll
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\abstarct_calculator.pdb
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.dll
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.pdb
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.genruntimeconfig.cache
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\Calculation.dll
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\bin\Debug\netcoreapp3.1\Calculation.pdb
+C:\Users\Baxtiyar\source\repos\abstarct_calculator\abstarct_calculator\obj\Debug\netcoreapp3.1\abstarct_calculator.csproj.CopyComplete
