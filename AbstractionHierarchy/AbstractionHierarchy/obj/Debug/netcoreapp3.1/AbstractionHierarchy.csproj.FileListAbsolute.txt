@@ -1,0 +1,14 @@
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\bin\Debug\netcoreapp3.1\AbstractionHierarchy.exe
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\bin\Debug\netcoreapp3.1\AbstractionHierarchy.deps.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\bin\Debug\netcoreapp3.1\AbstractionHierarchy.runtimeconfig.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\bin\Debug\netcoreapp3.1\AbstractionHierarchy.runtimeconfig.dev.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\bin\Debug\netcoreapp3.1\AbstractionHierarchy.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\bin\Debug\netcoreapp3.1\AbstractionHierarchy.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.AssemblyInfo.cs
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\AbstractionHierarchy\AbstractionHierarchy\obj\Debug\netcoreapp3.1\AbstractionHierarchy.genruntimeconfig.cache
