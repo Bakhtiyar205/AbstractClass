@@ -8,3 +8,13 @@ C:\Users\Baxtiyar\source\repos\abstarct_calculator\Calculation\obj\Debug\netcore
 C:\Users\Baxtiyar\source\repos\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.csproj.CoreCompileInputs.cache
 C:\Users\Baxtiyar\source\repos\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.dll
 C:\Users\Baxtiyar\source\repos\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\bin\Debug\netcoreapp3.1\Calculation.deps.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\bin\Debug\netcoreapp3.1\Calculation.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\bin\Debug\netcoreapp3.1\Calculation.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfo.cs
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson10_abstract\Homework\abstarct_calculator\Calculation\obj\Debug\netcoreapp3.1\Calculation.pdb

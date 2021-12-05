@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\abstarct_calculator\\AbstarctCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\abstarct_calculator\\AbstarctCalculator.csproj",
       "projectName": "AbstarctCalculator",
-      "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\abstarct_calculator\\AbstarctCalculator.csproj",
+      "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\abstarct_calculator\\AbstarctCalculator.csproj",
       "packagesPath": "C:\\Users\\Baxtiyar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\abstarct_calculator\\obj\\",
+      "outputPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\abstarct_calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Baxtiyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Calculation\\Calculation.csproj": {
-              "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Calculation\\Calculation.csproj"
+            "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Calculation\\Calculation.csproj": {
+              "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Calculation\\Calculation.csproj"
             },
-            "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Sum_Multiply\\SumMultiply.csproj": {
-              "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Sum_Multiply\\SumMultiply.csproj"
+            "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Sum_Multiply\\SumMultiply.csproj": {
+              "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Sum_Multiply\\SumMultiply.csproj"
             }
           }
         }

@@ -10,7 +10,7 @@ namespace AbstarctCalculator
             //Console.WriteLine("Enter first number");
             var n = 10;   /*Convert.ToInt32(Console.ReadLine());*/
             //Console.WriteLine("Enter second number");
-            var m = -20;  /*Convert.ToInt32(Console.ReadLine());*/
+            var m = 20;  /*Convert.ToInt32(Console.ReadLine());*/
      
             if(n>0 && m > 0)
             {

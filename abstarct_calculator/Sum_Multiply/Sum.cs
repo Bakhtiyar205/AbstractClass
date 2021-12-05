@@ -4,9 +4,9 @@ namespace SumMultiply
 {
     public class Sum : Archimetric
     {
-        public override decimal Calculation(int n, int m)
+        public override double Calculation(double n, double m)
         {
-            decimal result = n + m;
+            double result = n + m;
             return result;
         }
     }

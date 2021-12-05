@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj": {}
+    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj": {
+    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj",
+        "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj",
         "projectName": "AbstractionHierarchy",
-        "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj",
+        "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\AbstractionHierarchy\\AbstractionHierarchy\\AbstractionHierarchy.csproj",
         "packagesPath": "C:\\Users\\Baxtiyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\AbstractionHierarchy\\AbstractionHierarchy\\obj\\",
+        "outputPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\AbstractionHierarchy\\AbstractionHierarchy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Baxtiyar\\AppData\\Roaming\\NuGet\\NuGet.Config",

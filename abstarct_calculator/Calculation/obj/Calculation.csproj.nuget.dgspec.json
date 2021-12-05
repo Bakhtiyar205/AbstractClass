@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Calculation\\Calculation.csproj": {}
+    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Calculation\\Calculation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Calculation\\Calculation.csproj": {
+    "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Calculation\\Calculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Calculation\\Calculation.csproj",
+        "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Calculation\\Calculation.csproj",
         "projectName": "Calculation",
-        "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Calculation\\Calculation.csproj",
+        "projectPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Calculation\\Calculation.csproj",
         "packagesPath": "C:\\Users\\Baxtiyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\abstarct_calculator\\Calculation\\obj\\",
+        "outputPath": "C:\\Users\\Baxtiyar\\Documents\\CODE ACADEMY\\lesson10_abstract\\Homework\\abstarct_calculator\\Calculation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Baxtiyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
